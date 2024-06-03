@@ -11,4 +11,4 @@ jobs:
     - name: checkoutcode
       uses: actions/checkout@v3   
     - name: run scripit
-      uses: hello world 
+      run: hello world 
